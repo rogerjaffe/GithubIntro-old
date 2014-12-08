@@ -2,7 +2,7 @@ This is the file in which you should enter your class schedule:
 
 You can follow this format:
 
-Name: Roger C Jaffe
+Name: Roger D Jaffe
 Per 1: Digital Electronics, Rm B12
 Per 2: AP Comp Sci, Rm B12
 Per 3: Prep
