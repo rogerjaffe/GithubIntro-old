@@ -5,7 +5,7 @@ You can follow this format:
 Name: Roger Jaffe
 Per 1: Digital Electronics, Rm B12
 Per 2: AP Comp Sci, Rm B12
-Per 3: Prep-Adam-Ben
+Per 3: Prep-Adam
 Per 4: AP Comp Sci, Rm B12
 Per 5: Digital Electronics, Rm B12
 Per 6: AP Comp Sci, Rm B12
@@ -18,9 +18,6 @@ Per 2: APCS
 
 
 Team member 2
-Ben
-Per 1: Calculus
-Per 2: Music theory
 
 
 
