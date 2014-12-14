@@ -5,7 +5,11 @@ You can follow this format:
 Name: Roger Jaffe
 Per 1: Digital Electronics, Rm B12
 Per 2: AP Comp Sci, Rm B12
+<<<<<<< HEAD
 Per 3: Prep-Adam-Ben
+=======
+Per 3: Prep-Emily
+>>>>>>> emily-branch
 Per 4: AP Comp Sci, Rm B12
 Per 5: Digital Electronics, Rm B12
 Per 6: AP Comp Sci, Rm B12
@@ -25,7 +29,10 @@ Per 3: APCS
 
 
 Team member 3
-
+Emily
+Per 1: AP Psych
+Per 2: Math 150
+Per 3: AP Eng Lang
 
 
 Team member 4
